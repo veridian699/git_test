@@ -1,0 +1,1 @@
+This is Veridian's first git project!
